@@ -2,7 +2,7 @@
 
 ##### Este proyecto tiene una descripcion en __markdown__
 
-#### Este -proyecto- hace:
+#### Este *proyecto* hace:
 
 * Clona los proyectos de las estudiantes
 * Abre los gh-pages automaticamente
